@@ -23,7 +23,7 @@ This system emulates a simplified Twitter-like platform, enabling users to regis
 ## User Guide
 
 ### DataBase Import
-- Write the name of the database name which is "SQLdatabase.db" 
+- Write the name of the database name which is "SQLdata.db" 
 
 ### User Registration
 
